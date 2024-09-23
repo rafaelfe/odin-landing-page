@@ -1,4 +1,4 @@
-# odin-landing-page
+# Odin Landing Page
 Landing page exercise for the Odin Project.
 
 https://www.theodinproject.com
